@@ -17,5 +17,5 @@ While you're here, feel free to check out this stuff too:
 <br />
 <br />
 <p align="right">
-  <a target="_blank" href="https://pronouns.cc/@limes">they/it/any</a> • <a target="_blank" href="https://open.spotify.com/playlist/5rx5PZoWqEeaoivwz350Ki">playlist</a> • <a target="_blank" href="https://matrix.to/#/@limes:limes.pink">matrix</a> • <a target="_blank" href="https://fedi.limes.pink/@limes">fedi</a> • <a target="_blank" href="https://bsky.app/profile/limes.pink">bluesky</a> • <a target="_blank" href="mailto:hey@limes.pink">email</a> • <a target="_blank" href="https://liberapay.com/limes">buy me skittles</a>
+  <a target="_blank" href="https://pronouns.cc/@limes">they/it</a> • <a target="_blank" href="https://open.spotify.com/playlist/5rx5PZoWqEeaoivwz350Ki">playlist</a> • <a target="_blank" href="https://matrix.to/#/@limes:limes.pink">matrix</a> • <a target="_blank" href="https://fedi.limes.pink/@limes">fedi</a> • <a target="_blank" href="https://bsky.app/profile/limes.pink">bluesky</a> • <a target="_blank" href="mailto:hey@limes.pink">email</a> • <a target="_blank" href="https://liberapay.com/limes">buy me skittles</a>
 </p>
