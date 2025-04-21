@@ -10,7 +10,8 @@ I'm an idiot who makes stuff™:
 
 
 While you're here, feel free to check out this stuff too:
-- [limes.pink](https://limes.pink/): my website, where you can find some more cool stuff! It's really good! I'm being impartial!
+- [limes.pink](https://limes.pink/): my website, where you can find other cool stuff! It's really good! I'm being impartial!
+- [limes.pics](https://limes.pics/): photography!
 - [@limes@limes.pink](https://fedi.limes.pink/@limes) and [@limes.pink](https://bsky.app/profile/limes.pink): may contain cringe
 - [buy me a pack of skittles](https://liberapay.com/limes) here. please? No? Uh, ok. figured it'd be worth a try.
 
