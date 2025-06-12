@@ -3,6 +3,7 @@
 I'm an idiot who makes stuff™:
 
 - [microsoftgithub.com](https://microsoftgithub.com/usage): create legit-looking GitHub links that rickroll the visitor when clicked.
+- [nintendo.uk.net](https://nintendo.uk.net/usage): create legit-looking Nintendo links that rickroll the visitor when clicked.
 - [dcbadge](https://github.com/gitlimes/dcbadge): A customizable badge that shows your Discord account, a server invite, or a bot account ([![my Discord badge](https://dcbadge.limes.pink/api/shield/406125028065804289?style=flat)](https://github.com/gitlimes/dcbadge))
 - [spinmii](https://limes.pink/spinmii): make your mii spin 360° to your heart's content!
 - [errors](https://limes.pink/errors): render an error dialog from a Wii U or 3DS, because, duh, who doesn't wanna do that.
