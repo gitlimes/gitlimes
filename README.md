@@ -7,6 +7,7 @@ I'm an idiot who makes stuff™:
 - [dcbadge](https://github.com/gitlimes/dcbadge): A customizable badge that shows your Discord account, a server invite, or a bot account ([![my Discord badge](https://dcbadge.limes.pink/api/shield/406125028065804289?style=flat)](https://github.com/gitlimes/dcbadge))
 - [spinmii](https://limes.pink/spinmii): make your mii spin 360° to your heart's content!
 - [errors](https://limes.pink/errors): render an error dialog from a Wii U or 3DS, because, duh, who doesn't wanna do that.
+- [ghostposter](https://github.com/gitlimes/ghostposter): ingest a Ghost webhook and post to Bluesky, Twitter and Mastodon.
 - [system-usage-bot](https://github.com/gitlimes/system-usage-bot): a mastodon bot that toots the system usage of the server it runs on (sample toot [here](https://fedi.limes.pink/@system/111553177338989258))
 
 
