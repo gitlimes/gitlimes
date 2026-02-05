@@ -1,3 +1,3 @@
-# You're looking for [@limesdotpink](https://github.com/limesdotpink)!
+# you're looking for [@limesdotpink](https://github.com/limesdotpink)!
 
 renamed my account on 2026-02-05, if you're here i probably forgot to change a link somewhere...
